@@ -1,4 +1,4 @@
-class Instance {
+export class Instance {
   private name: string
 
   public constructor(name: string) {
