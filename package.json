@@ -10,7 +10,8 @@
     "vue",
     "design-pattern",
     "engineering",
-    "network"
+    "network",
+    "test"
   ],
   "devDependencies": {
     "@babel/core": "^7.17.5",
@@ -24,6 +25,6 @@
     "typescript": "^4.6.2"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch"
   }
 }

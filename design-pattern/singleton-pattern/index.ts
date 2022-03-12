@@ -19,4 +19,4 @@ export default class Singleton {
     }
     return Singleton.instance
   }
-}
+} 
